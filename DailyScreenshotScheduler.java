@@ -9,6 +9,7 @@ import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
 import javax.imageio.ImageIO;
 
+// Java8版本截图
 public class DailyScreenshotScheduler {
 
     public static void main(String[] args) {
